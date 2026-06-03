@@ -1,6 +1,6 @@
 # seo-audit-skill
 
-**English** · [中文](README.zh.md)
+**English** · [中文](README.zh.md) · [SEO Audit Agent Skill](https://nanoskill.ai/skills/seo-audit)
 
 Reusable Agent Skills for single-page SEO auditing. Give it a URL — get a structured HTML report with actionable findings.
 
